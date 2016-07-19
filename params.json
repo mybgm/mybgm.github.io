@@ -1,6 +1,6 @@
 {
   "name": "My BGM",
   "tagline": "",
-  "body": "# Music Library\r\n\r\n영상의 분위기에 알맞는 다양한 배경음악을 제공하는 사이트입니다.\r\n\r\n```\r\nputs \"Hello, My BGM!\"",
+  "body": "# Music Library\r\n\r\n영상의 분위기에 알맞는 다양한 배경음악을 제공하는 사이트입니다.\r\n\r\n```\r\nputs Hello, My BGM!",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
